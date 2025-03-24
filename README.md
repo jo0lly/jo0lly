@@ -16,6 +16,6 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 ✔ Desenvolvimento de aplicações dinâmicas
 📬 Contato
 📧 Email: melissanepomuceno09@gmail.com.br
-🔗 GitHub: github.com/jo0lly
+🔗 GitHub: https://github.com/jo0lly
 
 💡 "Neste mundo, você pode fazer as coisas do jeito simples ou do jeito certo."
