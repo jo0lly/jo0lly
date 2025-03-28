@@ -19,7 +19,7 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 
 📬 Contato
 📧 [Email](melissanepomuceno09@gmail.com.br)
-🔗 GitHub: https://github.com/jo0lly
+🔗 [GitHub](https://github.com/jo0lly)
 
 
 
