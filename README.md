@@ -18,7 +18,7 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 ✔️ Desenvolvimento de aplicações dinâmicas
 
 📬 Contato
-📧 Email: melissanepomuceno09@gmail.com.br
+📧 [Email](melissanepomuceno09@gmail.com.br)
 🔗 GitHub: https://github.com/jo0lly
 
 
