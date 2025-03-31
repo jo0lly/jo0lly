@@ -28,4 +28,5 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 ---
 
 🏆 "Neste mundo, você pode fazer as coisas do jeito simples ou do jeito certo."
-[pngimg.com](php_PNG17.png)
+
+![PHP](imagem/PHP.png)
