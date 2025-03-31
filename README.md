@@ -30,3 +30,4 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 🏆 "Neste mundo, você pode fazer as coisas do jeito simples ou do jeito certo."
 
 ![PHP](https://github.com/jo0lly/jo0lly/blob/main/PHP.png?raw=true)
+![honestidade](https://github.com/jo0lly/jo0lly/blob/main/images.png?raw=true)
