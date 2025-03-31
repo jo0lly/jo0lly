@@ -29,4 +29,4 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 ![honestidade](https://github.com/jo0lly/jo0lly/blob/main/images%20(1).png?raw=true)
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ "𝒩𝑒𝓈𝓉𝑒 𝓂𝓊𝓃𝒹𝑜, 𝓋𝑜𝒸ê 𝓅𝑜𝒹𝑒 𝒻𝒶𝓏𝑒𝓇 𝒶𝓈 𝒸𝑜𝒾𝓈𝒶𝓈 𝒹𝑜 𝒿𝑒𝒾𝓉𝑜 𝓈𝒾𝓂𝓅𝓁𝑒𝓈 𝑜𝓊 𝒹𝑜 𝒿𝑒𝒾𝓉𝑜 𝒸𝑒𝓇𝓉𝑜."
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ "𝒩𝑒𝓈𝓉𝑒 𝓂𝓊𝓃𝒹𝑜, 𝓋𝑜𝒸ê 𝓅𝑜𝒹𝑒 𝒻𝒶𝓏𝑒𝓇 𝒶𝓈 𝒸𝑜𝒾𝓈𝒶𝓈 𝒹𝑜 𝒿𝑒𝒾𝓉𝑜 𝓈𝒾𝓂𝓅𝓁𝑒𝓈 𝑜𝓊 𝒹𝑜 𝒿𝑒𝒾𝓉𝑜 𝒸𝑒𝓇𝓉𝑜."
